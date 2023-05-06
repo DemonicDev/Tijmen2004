@@ -1,6 +1,6 @@
 - 👋 Hi, Mein Name ist Tijmen
 - 👀 Meine interessen sind PHP (pocketmine)
-- 🌱 ich lerne zurzeit PHP (pocketmine) {und java(nukkit}
+- 🌱 ich lerne zurzeit PHP (pocketmine)
 
 
 <!---
